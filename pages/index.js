@@ -12,7 +12,10 @@ import ProductsBanner from '../components/homepage/ProductsBanner';
 const Home = () => (
   <Root transparentHeader={true}>
     <Head>
+
       <title>Home | commerce</title>
+      <link rel="shortcut icon" href="/favicon.ico" />
+
     </Head>
 
     <HeroSection />

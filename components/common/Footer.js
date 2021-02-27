@@ -70,14 +70,7 @@ const Footer = () => (
                 className="mb-3 d-block font-color-medium"
                 target="_blank"
               >
-                Angel
-              </a>
-              <a
-                href="https://www.linkedin.com/company/chec-chec-commerce-inc.-/"
-                className="d-block font-color-medium"
-                target="_blank"
-              >
-                LinkedIn
+                Facebook
               </a>
             </div>
           </div>

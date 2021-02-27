@@ -18,9 +18,9 @@ const params = {
   }
 };
 const images = [
-  '/images/home-1.jpg',
-  '/images/home-2.jpg',
-  '/images/home-3.jpg',
+  '/images/banner1.jpg',
+  '/images/banner2.jpg',
+  '/images/banner3.jpg',
   '/images/home-4.jpg',
 ];
 
